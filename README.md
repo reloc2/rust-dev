@@ -1,2 +1,2 @@
 # rust-dev
-rust dev
+rust development
